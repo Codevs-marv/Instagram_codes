@@ -1,3 +1,8 @@
+# ESTA ES LA FORMA CORRECTA DE USAR CONTRASENAS EN EMAIL
+# Recuerda que no es una buena practica que aparezcan contrasenas en el codigo principal
+
+
+
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from dotenv import load_dotenv
